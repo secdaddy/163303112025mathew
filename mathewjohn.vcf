@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+N:John;Mathew;;;
+FN:Mathew John
+ORG:SecDaddy IT Solutions
+ADR;TYPE=WORK:231,Second Floor, Madinat Zayed Tower, Abu Dhabi
+TITLE:Business Development Officer
+TEL;TYPE=CELL:+971585700925
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+971585700925
+EMAIL;TYPE=WORK:mjohn@secdaddy.uk
+URL;TYPE=Digital Business Card:
+URL:www.secdaddy.uk
+URL;TYPE=Website:www.secdaddy.uk
+URL;TYPE=Location:https://maps.app.goo.gl/UdS39y4YTT5MkhQG6
+URL;TYPE=WhatsApp:https://wa.me/+971585700925
+URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/company/secdaddy
+URL;TYPE=Facebook:https://facebook.com/https://www.facebook.com/secdaddy
+URL;TYPE=Twitter:https://twitter.com/https://x.com/secdaddy21143
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100241232
+END:VCARD
